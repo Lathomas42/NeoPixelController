@@ -1,6 +1,5 @@
 # NeoPixelController
 ## Python to Arduino controller for Neopixel LED rings.
-===
 ## Things to do:
 ### 1. Use Comando
 Using [comando](https://github.com/braingram/comando) would make this library more reliable and allow for us modify the library further.
